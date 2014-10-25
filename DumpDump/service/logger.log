@@ -1,0 +1,2304 @@
+
+Connected to: Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+
+Export file created by EXPORT:V11.02.00 via conventional path
+import done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+import server uses AL32UTF8 character set (possible charset conversion)
+. importing SYSTEM's objects into SYSTEM
+. importing HR's objects into HR
+. . importing table                    "COUNTRIES"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 AR
+Column 2 Argentina
+Column 3 2
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 AU
+Column 2 Australia
+Column 3 3
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 BE
+Column 2 Belgium
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 BR
+Column 2 Brazil
+Column 3 2
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 CA
+Column 2 Canada
+Column 3 2
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 CH
+Column 2 Switzerland
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 CN
+Column 2 China
+Column 3 3
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 DE
+Column 2 Germany
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 DK
+Column 2 Denmark
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 EG
+Column 2 Egypt
+Column 3 4
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 FR
+Column 2 France
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 IL
+Column 2 Israel
+Column 3 4
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 IN
+Column 2 India
+Column 3 3
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 IT
+Column 2 Italy
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 JP
+Column 2 Japan
+Column 3 3
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 KW
+Column 2 Kuwait
+Column 3 4
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 ML
+Column 2 Malaysia
+Column 3 3
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 MX
+Column 2 Mexico
+Column 3 2
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 NG
+Column 2 Nigeria
+Column 3 4
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 NL
+Column 2 Netherlands
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 SG
+Column 2 Singapore
+Column 3 3
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 UK
+Column 2 United Kingdom
+Column 3 1
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 US
+Column 2 United States of America
+Column 3 2
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 ZM
+Column 2 Zambia
+Column 3 4
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.COUNTRY_C_ID_PK) violated
+Column 1 ZW
+Column 2 Zimbabwe
+Column 3 4          0 rows imported
+. . importing table                  "DEPARTMENTS"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 10
+Column 2 Administration
+Column 3 200
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 20
+Column 2 Marketing
+Column 3 201
+Column 4 1800
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 30
+Column 2 Purchasing
+Column 3 114
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 40
+Column 2 Human Resources
+Column 3 203
+Column 4 2400
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 50
+Column 2 Shipping
+Column 3 121
+Column 4 1500
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 60
+Column 2 IT
+Column 3 103
+Column 4 1400
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 70
+Column 2 Public Relations
+Column 3 204
+Column 4 2700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 80
+Column 2 Sales
+Column 3 145
+Column 4 2500
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 90
+Column 2 Executive
+Column 3 100
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 100
+Column 2 Finance
+Column 3 108
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 110
+Column 2 Accounting
+Column 3 205
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 120
+Column 2 Treasury
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 130
+Column 2 Corporate Tax
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 140
+Column 2 Control And Credit
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 150
+Column 2 Shareholder Services
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 160
+Column 2 Benefits
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 170
+Column 2 Manufacturing
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 180
+Column 2 Construction
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 190
+Column 2 Contracting
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 200
+Column 2 Operations
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 210
+Column 2 IT Support
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 220
+Column 2 NOC
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 230
+Column 2 IT Helpdesk
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 240
+Column 2 Government Sales
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 250
+Column 2 Retail Sales
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 260
+Column 2 Recruiting
+Column 3 
+Column 4 1700
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.DEPT_ID_PK) violated
+Column 1 270
+Column 2 Payroll
+Column 3 
+Column 4 1700          0 rows imported
+. . importing table                    "EMPLOYEES"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 100
+Column 2 Steven
+Column 3 King
+Column 4 SKING
+Column 5 515.123.4567
+Column 6 17-JUN-2003:00:00:00
+Column 7 AD_PRES
+Column 8 24000
+Column 9 
+Column 10 
+Column 11 90
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 101
+Column 2 Neena
+Column 3 Kochhar
+Column 4 NKOCHHAR
+Column 5 515.123.4568
+Column 6 21-SEP-2005:00:00:00
+Column 7 AD_VP
+Column 8 17000
+Column 9 
+Column 10 100
+Column 11 90
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 102
+Column 2 Lex
+Column 3 De Haan
+Column 4 LDEHAAN
+Column 5 515.123.4569
+Column 6 13-JAN-2001:00:00:00
+Column 7 AD_VP
+Column 8 17000
+Column 9 
+Column 10 100
+Column 11 90
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 103
+Column 2 Alexander
+Column 3 Hunold
+Column 4 AHUNOLD
+Column 5 590.423.4567
+Column 6 03-JAN-2006:00:00:00
+Column 7 IT_PROG
+Column 8 9000
+Column 9 
+Column 10 102
+Column 11 60
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 104
+Column 2 Bruce
+Column 3 Ernst
+Column 4 BERNST
+Column 5 590.423.4568
+Column 6 21-MAY-2007:00:00:00
+Column 7 IT_PROG
+Column 8 6000
+Column 9 
+Column 10 103
+Column 11 60
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 105
+Column 2 David
+Column 3 Austin
+Column 4 DAUSTIN
+Column 5 590.423.4569
+Column 6 25-JUN-2005:00:00:00
+Column 7 IT_PROG
+Column 8 4800
+Column 9 
+Column 10 103
+Column 11 60
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 106
+Column 2 Valli
+Column 3 Pataballa
+Column 4 VPATABAL
+Column 5 590.423.4560
+Column 6 05-FEB-2006:00:00:00
+Column 7 IT_PROG
+Column 8 4800
+Column 9 
+Column 10 103
+Column 11 60
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 107
+Column 2 Diana
+Column 3 Lorentz
+Column 4 DLORENTZ
+Column 5 590.423.5567
+Column 6 07-FEB-2007:00:00:00
+Column 7 IT_PROG
+Column 8 4200
+Column 9 
+Column 10 103
+Column 11 60
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 108
+Column 2 Nancy
+Column 3 Greenberg
+Column 4 NGREENBE
+Column 5 515.124.4569
+Column 6 17-AUG-2002:00:00:00
+Column 7 FI_MGR
+Column 8 12008
+Column 9 
+Column 10 101
+Column 11 100
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 109
+Column 2 Daniel
+Column 3 Faviet
+Column 4 DFAVIET
+Column 5 515.124.4169
+Column 6 16-AUG-2002:00:00:00
+Column 7 FI_ACCOUNT
+Column 8 9000
+Column 9 
+Column 10 108
+Column 11 100
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 110
+Column 2 John
+Column 3 Chen
+Column 4 JCHEN
+Column 5 515.124.4269
+Column 6 28-SEP-2005:00:00:00
+Column 7 FI_ACCOUNT
+Column 8 8200
+Column 9 
+Column 10 108
+Column 11 100
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 111
+Column 2 Ismael
+Column 3 Sciarra
+Column 4 ISCIARRA
+Column 5 515.124.4369
+Column 6 30-SEP-2005:00:00:00
+Column 7 FI_ACCOUNT
+Column 8 7700
+Column 9 
+Column 10 108
+Column 11 100
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 112
+Column 2 Jose Manuel
+Column 3 Urman
+Column 4 JMURMAN
+Column 5 515.124.4469
+Column 6 07-MAR-2006:00:00:00
+Column 7 FI_ACCOUNT
+Column 8 7800
+Column 9 
+Column 10 108
+Column 11 100
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 113
+Column 2 Luis
+Column 3 Popp
+Column 4 LPOPP
+Column 5 515.124.4567
+Column 6 07-DEC-2007:00:00:00
+Column 7 FI_ACCOUNT
+Column 8 6900
+Column 9 
+Column 10 108
+Column 11 100
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 114
+Column 2 Den
+Column 3 Raphaely
+Column 4 DRAPHEAL
+Column 5 515.127.4561
+Column 6 07-DEC-2002:00:00:00
+Column 7 PU_MAN
+Column 8 11000
+Column 9 
+Column 10 100
+Column 11 30
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 115
+Column 2 Alexander
+Column 3 Khoo
+Column 4 AKHOO
+Column 5 515.127.4562
+Column 6 18-MAY-2003:00:00:00
+Column 7 PU_CLERK
+Column 8 3100
+Column 9 
+Column 10 114
+Column 11 30
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 116
+Column 2 Shelli
+Column 3 Baida
+Column 4 SBAIDA
+Column 5 515.127.4563
+Column 6 24-DEC-2005:00:00:00
+Column 7 PU_CLERK
+Column 8 2900
+Column 9 
+Column 10 114
+Column 11 30
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 117
+Column 2 Sigal
+Column 3 Tobias
+Column 4 STOBIAS
+Column 5 515.127.4564
+Column 6 24-JUL-2005:00:00:00
+Column 7 PU_CLERK
+Column 8 2800
+Column 9 
+Column 10 114
+Column 11 30
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 118
+Column 2 Guy
+Column 3 Himuro
+Column 4 GHIMURO
+Column 5 515.127.4565
+Column 6 15-NOV-2006:00:00:00
+Column 7 PU_CLERK
+Column 8 2600
+Column 9 
+Column 10 114
+Column 11 30
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 119
+Column 2 Karen
+Column 3 Colmenares
+Column 4 KCOLMENA
+Column 5 515.127.4566
+Column 6 10-AUG-2007:00:00:00
+Column 7 PU_CLERK
+Column 8 2500
+Column 9 
+Column 10 114
+Column 11 30
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 120
+Column 2 Matthew
+Column 3 Weiss
+Column 4 MWEISS
+Column 5 650.123.1234
+Column 6 18-JUL-2004:00:00:00
+Column 7 ST_MAN
+Column 8 8000
+Column 9 
+Column 10 100
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 121
+Column 2 Adam
+Column 3 Fripp
+Column 4 AFRIPP
+Column 5 650.123.2234
+Column 6 10-APR-2005:00:00:00
+Column 7 ST_MAN
+Column 8 8200
+Column 9 
+Column 10 100
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 122
+Column 2 Payam
+Column 3 Kaufling
+Column 4 PKAUFLIN
+Column 5 650.123.3234
+Column 6 01-MAY-2003:00:00:00
+Column 7 ST_MAN
+Column 8 7900
+Column 9 
+Column 10 100
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 123
+Column 2 Shanta
+Column 3 Vollman
+Column 4 SVOLLMAN
+Column 5 650.123.4234
+Column 6 10-OCT-2005:00:00:00
+Column 7 ST_MAN
+Column 8 6500
+Column 9 
+Column 10 100
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 124
+Column 2 Kevin
+Column 3 Mourgos
+Column 4 KMOURGOS
+Column 5 650.123.5234
+Column 6 16-NOV-2007:00:00:00
+Column 7 ST_MAN
+Column 8 5800
+Column 9 
+Column 10 100
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 125
+Column 2 Julia
+Column 3 Nayer
+Column 4 JNAYER
+Column 5 650.124.1214
+Column 6 16-JUL-2005:00:00:00
+Column 7 ST_CLERK
+Column 8 3200
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 126
+Column 2 Irene
+Column 3 Mikkilineni
+Column 4 IMIKKILI
+Column 5 650.124.1224
+Column 6 28-SEP-2006:00:00:00
+Column 7 ST_CLERK
+Column 8 2700
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 127
+Column 2 James
+Column 3 Landry
+Column 4 JLANDRY
+Column 5 650.124.1334
+Column 6 14-JAN-2007:00:00:00
+Column 7 ST_CLERK
+Column 8 2400
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 128
+Column 2 Steven
+Column 3 Markle
+Column 4 SMARKLE
+Column 5 650.124.1434
+Column 6 08-MAR-2008:00:00:00
+Column 7 ST_CLERK
+Column 8 2200
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 129
+Column 2 Laura
+Column 3 Bissot
+Column 4 LBISSOT
+Column 5 650.124.5234
+Column 6 20-AUG-2005:00:00:00
+Column 7 ST_CLERK
+Column 8 3300
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 130
+Column 2 Mozhe
+Column 3 Atkinson
+Column 4 MATKINSO
+Column 5 650.124.6234
+Column 6 30-OCT-2005:00:00:00
+Column 7 ST_CLERK
+Column 8 2800
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 131
+Column 2 James
+Column 3 Marlow
+Column 4 JAMRLOW
+Column 5 650.124.7234
+Column 6 16-FEB-2005:00:00:00
+Column 7 ST_CLERK
+Column 8 2500
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 132
+Column 2 TJ
+Column 3 Olson
+Column 4 TJOLSON
+Column 5 650.124.8234
+Column 6 10-APR-2007:00:00:00
+Column 7 ST_CLERK
+Column 8 2100
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 133
+Column 2 Jason
+Column 3 Mallin
+Column 4 JMALLIN
+Column 5 650.127.1934
+Column 6 14-JUN-2004:00:00:00
+Column 7 ST_CLERK
+Column 8 3300
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 134
+Column 2 Michael
+Column 3 Rogers
+Column 4 MROGERS
+Column 5 650.127.1834
+Column 6 26-AUG-2006:00:00:00
+Column 7 ST_CLERK
+Column 8 2900
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 135
+Column 2 Ki
+Column 3 Gee
+Column 4 KGEE
+Column 5 650.127.1734
+Column 6 12-DEC-2007:00:00:00
+Column 7 ST_CLERK
+Column 8 2400
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 136
+Column 2 Hazel
+Column 3 Philtanker
+Column 4 HPHILTAN
+Column 5 650.127.1634
+Column 6 06-FEB-2008:00:00:00
+Column 7 ST_CLERK
+Column 8 2200
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 137
+Column 2 Renske
+Column 3 Ladwig
+Column 4 RLADWIG
+Column 5 650.121.1234
+Column 6 14-JUL-2003:00:00:00
+Column 7 ST_CLERK
+Column 8 3600
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 138
+Column 2 Stephen
+Column 3 Stiles
+Column 4 SSTILES
+Column 5 650.121.2034
+Column 6 26-OCT-2005:00:00:00
+Column 7 ST_CLERK
+Column 8 3200
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 139
+Column 2 John
+Column 3 Seo
+Column 4 JSEO
+Column 5 650.121.2019
+Column 6 12-FEB-2006:00:00:00
+Column 7 ST_CLERK
+Column 8 2700
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 140
+Column 2 Joshua
+Column 3 Patel
+Column 4 JPATEL
+Column 5 650.121.1834
+Column 6 06-APR-2006:00:00:00
+Column 7 ST_CLERK
+Column 8 2500
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 141
+Column 2 Trenna
+Column 3 Rajs
+Column 4 TRAJS
+Column 5 650.121.8009
+Column 6 17-OCT-2003:00:00:00
+Column 7 ST_CLERK
+Column 8 3500
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 142
+Column 2 Curtis
+Column 3 Davies
+Column 4 CDAVIES
+Column 5 650.121.2994
+Column 6 29-JAN-2005:00:00:00
+Column 7 ST_CLERK
+Column 8 3100
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 143
+Column 2 Randall
+Column 3 Matos
+Column 4 RMATOS
+Column 5 650.121.2874
+Column 6 15-MAR-2006:00:00:00
+Column 7 ST_CLERK
+Column 8 2600
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 144
+Column 2 Peter
+Column 3 Vargas
+Column 4 PVARGAS
+Column 5 650.121.2004
+Column 6 09-JUL-2006:00:00:00
+Column 7 ST_CLERK
+Column 8 2500
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 145
+Column 2 John
+Column 3 Russell
+Column 4 JRUSSEL
+Column 5 011.44.1344.429268
+Column 6 01-OCT-2004:00:00:00
+Column 7 SA_MAN
+Column 8 14000
+Column 9 .4
+Column 10 100
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 146
+Column 2 Karen
+Column 3 Partners
+Column 4 KPARTNER
+Column 5 011.44.1344.467268
+Column 6 05-JAN-2005:00:00:00
+Column 7 SA_MAN
+Column 8 13500
+Column 9 .3
+Column 10 100
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 147
+Column 2 Alberto
+Column 3 Errazuriz
+Column 4 AERRAZUR
+Column 5 011.44.1344.429278
+Column 6 10-MAR-2005:00:00:00
+Column 7 SA_MAN
+Column 8 12000
+Column 9 .3
+Column 10 100
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 148
+Column 2 Gerald
+Column 3 Cambrault
+Column 4 GCAMBRAU
+Column 5 011.44.1344.619268
+Column 6 15-OCT-2007:00:00:00
+Column 7 SA_MAN
+Column 8 11000
+Column 9 .3
+Column 10 100
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 149
+Column 2 Eleni
+Column 3 Zlotkey
+Column 4 EZLOTKEY
+Column 5 011.44.1344.429018
+Column 6 29-JAN-2008:00:00:00
+Column 7 SA_MAN
+Column 8 10500
+Column 9 .2
+Column 10 100
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 150
+Column 2 Peter
+Column 3 Tucker
+Column 4 PTUCKER
+Column 5 011.44.1344.129268
+Column 6 30-JAN-2005:00:00:00
+Column 7 SA_REP
+Column 8 10000
+Column 9 .3
+Column 10 145
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 151
+Column 2 David
+Column 3 Bernstein
+Column 4 DBERNSTE
+Column 5 011.44.1344.345268
+Column 6 24-MAR-2005:00:00:00
+Column 7 SA_REP
+Column 8 9500
+Column 9 .25
+Column 10 145
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 152
+Column 2 Peter
+Column 3 Hall
+Column 4 PHALL
+Column 5 011.44.1344.478968
+Column 6 20-AUG-2005:00:00:00
+Column 7 SA_REP
+Column 8 9000
+Column 9 .25
+Column 10 145
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 153
+Column 2 Christopher
+Column 3 Olsen
+Column 4 COLSEN
+Column 5 011.44.1344.498718
+Column 6 30-MAR-2006:00:00:00
+Column 7 SA_REP
+Column 8 8000
+Column 9 .2
+Column 10 145
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 154
+Column 2 Nanette
+Column 3 Cambrault
+Column 4 NCAMBRAU
+Column 5 011.44.1344.987668
+Column 6 09-DEC-2006:00:00:00
+Column 7 SA_REP
+Column 8 7500
+Column 9 .2
+Column 10 145
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 155
+Column 2 Oliver
+Column 3 Tuvault
+Column 4 OTUVAULT
+Column 5 011.44.1344.486508
+Column 6 23-NOV-2007:00:00:00
+Column 7 SA_REP
+Column 8 7000
+Column 9 .15
+Column 10 145
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 156
+Column 2 Janette
+Column 3 King
+Column 4 JKING
+Column 5 011.44.1345.429268
+Column 6 30-JAN-2004:00:00:00
+Column 7 SA_REP
+Column 8 10000
+Column 9 .35
+Column 10 146
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 157
+Column 2 Patrick
+Column 3 Sully
+Column 4 PSULLY
+Column 5 011.44.1345.929268
+Column 6 04-MAR-2004:00:00:00
+Column 7 SA_REP
+Column 8 9500
+Column 9 .35
+Column 10 146
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 158
+Column 2 Allan
+Column 3 McEwen
+Column 4 AMCEWEN
+Column 5 011.44.1345.829268
+Column 6 01-AUG-2004:00:00:00
+Column 7 SA_REP
+Column 8 9000
+Column 9 .35
+Column 10 146
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 159
+Column 2 Lindsey
+Column 3 Smith
+Column 4 LSMITH
+Column 5 011.44.1345.729268
+Column 6 10-MAR-2005:00:00:00
+Column 7 SA_REP
+Column 8 8000
+Column 9 .3
+Column 10 146
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 160
+Column 2 Louise
+Column 3 Doran
+Column 4 LDORAN
+Column 5 011.44.1345.629268
+Column 6 15-DEC-2005:00:00:00
+Column 7 SA_REP
+Column 8 7500
+Column 9 .3
+Column 10 146
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 161
+Column 2 Sarath
+Column 3 Sewall
+Column 4 SSEWALL
+Column 5 011.44.1345.529268
+Column 6 03-NOV-2006:00:00:00
+Column 7 SA_REP
+Column 8 7000
+Column 9 .25
+Column 10 146
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 162
+Column 2 Clara
+Column 3 Vishney
+Column 4 CVISHNEY
+Column 5 011.44.1346.129268
+Column 6 11-NOV-2005:00:00:00
+Column 7 SA_REP
+Column 8 10500
+Column 9 .25
+Column 10 147
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 163
+Column 2 Danielle
+Column 3 Greene
+Column 4 DGREENE
+Column 5 011.44.1346.229268
+Column 6 19-MAR-2007:00:00:00
+Column 7 SA_REP
+Column 8 9500
+Column 9 .15
+Column 10 147
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 164
+Column 2 Mattea
+Column 3 Marvins
+Column 4 MMARVINS
+Column 5 011.44.1346.329268
+Column 6 24-JAN-2008:00:00:00
+Column 7 SA_REP
+Column 8 7200
+Column 9 .1
+Column 10 147
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 165
+Column 2 David
+Column 3 Lee
+Column 4 DLEE
+Column 5 011.44.1346.529268
+Column 6 23-FEB-2008:00:00:00
+Column 7 SA_REP
+Column 8 6800
+Column 9 .1
+Column 10 147
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 166
+Column 2 Sundar
+Column 3 Ande
+Column 4 SANDE
+Column 5 011.44.1346.629268
+Column 6 24-MAR-2008:00:00:00
+Column 7 SA_REP
+Column 8 6400
+Column 9 .1
+Column 10 147
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 167
+Column 2 Amit
+Column 3 Banda
+Column 4 ABANDA
+Column 5 011.44.1346.729268
+Column 6 21-APR-2008:00:00:00
+Column 7 SA_REP
+Column 8 6200
+Column 9 .1
+Column 10 147
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 168
+Column 2 Lisa
+Column 3 Ozer
+Column 4 LOZER
+Column 5 011.44.1343.929268
+Column 6 11-MAR-2005:00:00:00
+Column 7 SA_REP
+Column 8 11500
+Column 9 .25
+Column 10 148
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 169
+Column 2 Harrison
+Column 3 Bloom
+Column 4 HBLOOM
+Column 5 011.44.1343.829268
+Column 6 23-MAR-2006:00:00:00
+Column 7 SA_REP
+Column 8 10000
+Column 9 .2
+Column 10 148
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 170
+Column 2 Tayler
+Column 3 Fox
+Column 4 TFOX
+Column 5 011.44.1343.729268
+Column 6 24-JAN-2006:00:00:00
+Column 7 SA_REP
+Column 8 9600
+Column 9 .2
+Column 10 148
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 171
+Column 2 William
+Column 3 Smith
+Column 4 WSMITH
+Column 5 011.44.1343.629268
+Column 6 23-FEB-2007:00:00:00
+Column 7 SA_REP
+Column 8 7400
+Column 9 .15
+Column 10 148
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 172
+Column 2 Elizabeth
+Column 3 Bates
+Column 4 EBATES
+Column 5 011.44.1343.529268
+Column 6 24-MAR-2007:00:00:00
+Column 7 SA_REP
+Column 8 7300
+Column 9 .15
+Column 10 148
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 173
+Column 2 Sundita
+Column 3 Kumar
+Column 4 SKUMAR
+Column 5 011.44.1343.329268
+Column 6 21-APR-2008:00:00:00
+Column 7 SA_REP
+Column 8 6100
+Column 9 .1
+Column 10 148
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 174
+Column 2 Ellen
+Column 3 Abel
+Column 4 EABEL
+Column 5 011.44.1644.429267
+Column 6 11-MAY-2004:00:00:00
+Column 7 SA_REP
+Column 8 11000
+Column 9 .3
+Column 10 149
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 175
+Column 2 Alyssa
+Column 3 Hutton
+Column 4 AHUTTON
+Column 5 011.44.1644.429266
+Column 6 19-MAR-2005:00:00:00
+Column 7 SA_REP
+Column 8 8800
+Column 9 .25
+Column 10 149
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 176
+Column 2 Jonathon
+Column 3 Taylor
+Column 4 JTAYLOR
+Column 5 011.44.1644.429265
+Column 6 24-MAR-2006:00:00:00
+Column 7 SA_REP
+Column 8 8600
+Column 9 .2
+Column 10 149
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 177
+Column 2 Jack
+Column 3 Livingston
+Column 4 JLIVINGS
+Column 5 011.44.1644.429264
+Column 6 23-APR-2006:00:00:00
+Column 7 SA_REP
+Column 8 8400
+Column 9 .2
+Column 10 149
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 178
+Column 2 Kimberely
+Column 3 Grant
+Column 4 KGRANT
+Column 5 011.44.1644.429263
+Column 6 24-MAY-2007:00:00:00
+Column 7 SA_REP
+Column 8 7000
+Column 9 .15
+Column 10 149
+Column 11 
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 179
+Column 2 Charles
+Column 3 Johnson
+Column 4 CJOHNSON
+Column 5 011.44.1644.429262
+Column 6 04-JAN-2008:00:00:00
+Column 7 SA_REP
+Column 8 6200
+Column 9 .1
+Column 10 149
+Column 11 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 180
+Column 2 Winston
+Column 3 Taylor
+Column 4 WTAYLOR
+Column 5 650.507.9876
+Column 6 24-JAN-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 3200
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 181
+Column 2 Jean
+Column 3 Fleaur
+Column 4 JFLEAUR
+Column 5 650.507.9877
+Column 6 23-FEB-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 3100
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 182
+Column 2 Martha
+Column 3 Sullivan
+Column 4 MSULLIVA
+Column 5 650.507.9878
+Column 6 21-JUN-2007:00:00:00
+Column 7 SH_CLERK
+Column 8 2500
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 183
+Column 2 Girard
+Column 3 Geoni
+Column 4 GGEONI
+Column 5 650.507.9879
+Column 6 03-FEB-2008:00:00:00
+Column 7 SH_CLERK
+Column 8 2800
+Column 9 
+Column 10 120
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 184
+Column 2 Nandita
+Column 3 Sarchand
+Column 4 NSARCHAN
+Column 5 650.509.1876
+Column 6 27-JAN-2004:00:00:00
+Column 7 SH_CLERK
+Column 8 4200
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 185
+Column 2 Alexis
+Column 3 Bull
+Column 4 ABULL
+Column 5 650.509.2876
+Column 6 20-FEB-2005:00:00:00
+Column 7 SH_CLERK
+Column 8 4100
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 186
+Column 2 Julia
+Column 3 Dellinger
+Column 4 JDELLING
+Column 5 650.509.3876
+Column 6 24-JUN-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 3400
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 187
+Column 2 Anthony
+Column 3 Cabrio
+Column 4 ACABRIO
+Column 5 650.509.4876
+Column 6 07-FEB-2007:00:00:00
+Column 7 SH_CLERK
+Column 8 3000
+Column 9 
+Column 10 121
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 188
+Column 2 Kelly
+Column 3 Chung
+Column 4 KCHUNG
+Column 5 650.505.1876
+Column 6 14-JUN-2005:00:00:00
+Column 7 SH_CLERK
+Column 8 3800
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 189
+Column 2 Jennifer
+Column 3 Dilly
+Column 4 JDILLY
+Column 5 650.505.2876
+Column 6 13-AUG-2005:00:00:00
+Column 7 SH_CLERK
+Column 8 3600
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 190
+Column 2 Timothy
+Column 3 Gates
+Column 4 TGATES
+Column 5 650.505.3876
+Column 6 11-JUL-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 2900
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 191
+Column 2 Randall
+Column 3 Perkins
+Column 4 RPERKINS
+Column 5 650.505.4876
+Column 6 19-DEC-2007:00:00:00
+Column 7 SH_CLERK
+Column 8 2500
+Column 9 
+Column 10 122
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 192
+Column 2 Sarah
+Column 3 Bell
+Column 4 SBELL
+Column 5 650.501.1876
+Column 6 04-FEB-2004:00:00:00
+Column 7 SH_CLERK
+Column 8 4000
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 193
+Column 2 Britney
+Column 3 Everett
+Column 4 BEVERETT
+Column 5 650.501.2876
+Column 6 03-MAR-2005:00:00:00
+Column 7 SH_CLERK
+Column 8 3900
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 194
+Column 2 Samuel
+Column 3 McCain
+Column 4 SMCCAIN
+Column 5 650.501.3876
+Column 6 01-JUL-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 3200
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 195
+Column 2 Vance
+Column 3 Jones
+Column 4 VJONES
+Column 5 650.501.4876
+Column 6 17-MAR-2007:00:00:00
+Column 7 SH_CLERK
+Column 8 2800
+Column 9 
+Column 10 123
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 196
+Column 2 Alana
+Column 3 Walsh
+Column 4 AWALSH
+Column 5 650.507.9811
+Column 6 24-APR-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 3100
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 197
+Column 2 Kevin
+Column 3 Feeney
+Column 4 KFEENEY
+Column 5 650.507.9822
+Column 6 23-MAY-2006:00:00:00
+Column 7 SH_CLERK
+Column 8 3000
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 198
+Column 2 Donald
+Column 3 OConnell
+Column 4 DOCONNEL
+Column 5 650.507.9833
+Column 6 21-JUN-2007:00:00:00
+Column 7 SH_CLERK
+Column 8 2600
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 199
+Column 2 Douglas
+Column 3 Grant
+Column 4 DGRANT
+Column 5 650.507.9844
+Column 6 13-JAN-2008:00:00:00
+Column 7 SH_CLERK
+Column 8 2600
+Column 9 
+Column 10 124
+Column 11 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 200
+Column 2 Jennifer
+Column 3 Whalen
+Column 4 JWHALEN
+Column 5 515.123.4444
+Column 6 17-SEP-2003:00:00:00
+Column 7 AD_ASST
+Column 8 4400
+Column 9 
+Column 10 101
+Column 11 10
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 201
+Column 2 Michael
+Column 3 Hartstein
+Column 4 MHARTSTE
+Column 5 515.123.5555
+Column 6 17-FEB-2004:00:00:00
+Column 7 MK_MAN
+Column 8 13000
+Column 9 
+Column 10 100
+Column 11 20
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 202
+Column 2 Pat
+Column 3 Fay
+Column 4 PFAY
+Column 5 603.123.6666
+Column 6 17-AUG-2005:00:00:00
+Column 7 MK_REP
+Column 8 6000
+Column 9 
+Column 10 201
+Column 11 20
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 203
+Column 2 Susan
+Column 3 Mavris
+Column 4 SMAVRIS
+Column 5 515.123.7777
+Column 6 07-JUN-2002:00:00:00
+Column 7 HR_REP
+Column 8 6500
+Column 9 
+Column 10 101
+Column 11 40
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 204
+Column 2 Hermann
+Column 3 Baer
+Column 4 HBAER
+Column 5 515.123.8888
+Column 6 07-JUN-2002:00:00:00
+Column 7 PR_REP
+Column 8 10000
+Column 9 
+Column 10 101
+Column 11 70
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 205
+Column 2 Shelley
+Column 3 Higgins
+Column 4 SHIGGINS
+Column 5 515.123.8080
+Column 6 07-JUN-2002:00:00:00
+Column 7 AC_MGR
+Column 8 12008
+Column 9 
+Column 10 101
+Column 11 110
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.EMP_EMAIL_UK) violated
+Column 1 206
+Column 2 William
+Column 3 Gietz
+Column 4 WGIETZ
+Column 5 515.123.8181
+Column 6 07-JUN-2002:00:00:00
+Column 7 AC_ACCOUNT
+Column 8 8300
+Column 9 
+Column 10 205
+Column 11 110          0 rows imported
+IMP-00017: following statement failed with ORACLE error 2264:
+ "ALTER TABLE "EMPLOYEES" ADD CONSTRAINT "EMP_SALARY_MIN" CHECK (salary > 0) "
+ "ENABLE NOVALIDATE"
+IMP-00003: ORACLE error 2264 encountered
+ORA-02264: name already used by an existing constraint
+. . importing table                         "JOBS"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 AD_PRES
+Column 2 President
+Column 3 20080
+Column 4 40000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 AD_VP
+Column 2 Administration Vice President
+Column 3 15000
+Column 4 30000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 AD_ASST
+Column 2 Administration Assistant
+Column 3 3000
+Column 4 6000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 FI_MGR
+Column 2 Finance Manager
+Column 3 8200
+Column 4 16000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 FI_ACCOUNT
+Column 2 Accountant
+Column 3 4200
+Column 4 9000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 AC_MGR
+Column 2 Accounting Manager
+Column 3 8200
+Column 4 16000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 AC_ACCOUNT
+Column 2 Public Accountant
+Column 3 4200
+Column 4 9000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 SA_MAN
+Column 2 Sales Manager
+Column 3 10000
+Column 4 20080
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 SA_REP
+Column 2 Sales Representative
+Column 3 6000
+Column 4 12008
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 PU_MAN
+Column 2 Purchasing Manager
+Column 3 8000
+Column 4 15000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 PU_CLERK
+Column 2 Purchasing Clerk
+Column 3 2500
+Column 4 5500
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 ST_MAN
+Column 2 Stock Manager
+Column 3 5500
+Column 4 8500
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 ST_CLERK
+Column 2 Stock Clerk
+Column 3 2008
+Column 4 5000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 SH_CLERK
+Column 2 Shipping Clerk
+Column 3 2500
+Column 4 5500
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 IT_PROG
+Column 2 Programmer
+Column 3 4000
+Column 4 10000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 MK_MAN
+Column 2 Marketing Manager
+Column 3 9000
+Column 4 15000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 MK_REP
+Column 2 Marketing Representative
+Column 3 4000
+Column 4 9000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 HR_REP
+Column 2 Human Resources Representative
+Column 3 4000
+Column 4 9000
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JOB_ID_PK) violated
+Column 1 PR_REP
+Column 2 Public Relations Representative
+Column 3 4500
+Column 4 10500          0 rows imported
+. . importing table                  "JOB_HISTORY"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 102
+Column 2 13-JAN-2001:00:00:00
+Column 3 24-JUL-2006:00:00:00
+Column 4 IT_PROG
+Column 5 60
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 101
+Column 2 21-SEP-1997:00:00:00
+Column 3 27-OCT-2001:00:00:00
+Column 4 AC_ACCOUNT
+Column 5 110
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 101
+Column 2 28-OCT-2001:00:00:00
+Column 3 15-MAR-2005:00:00:00
+Column 4 AC_MGR
+Column 5 110
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 201
+Column 2 17-FEB-2004:00:00:00
+Column 3 19-DEC-2007:00:00:00
+Column 4 MK_REP
+Column 5 20
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 114
+Column 2 24-MAR-2006:00:00:00
+Column 3 31-DEC-2007:00:00:00
+Column 4 ST_CLERK
+Column 5 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 122
+Column 2 01-JAN-2007:00:00:00
+Column 3 31-DEC-2007:00:00:00
+Column 4 ST_CLERK
+Column 5 50
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 200
+Column 2 17-SEP-1995:00:00:00
+Column 3 17-JUN-2001:00:00:00
+Column 4 AD_ASST
+Column 5 90
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 176
+Column 2 24-MAR-2006:00:00:00
+Column 3 31-DEC-2006:00:00:00
+Column 4 SA_REP
+Column 5 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 176
+Column 2 01-JAN-2007:00:00:00
+Column 3 31-DEC-2007:00:00:00
+Column 4 SA_MAN
+Column 5 80
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.JHIST_EMP_ID_ST_DATE_PK) violated
+Column 1 200
+Column 2 01-JUL-2002:00:00:00
+Column 3 31-DEC-2006:00:00:00
+Column 4 AC_ACCOUNT
+Column 5 90          0 rows imported
+IMP-00017: following statement failed with ORACLE error 2264:
+ "ALTER TABLE "JOB_HISTORY" ADD CONSTRAINT "JHIST_DATE_INTERVAL" CHECK (end_d"
+ "ate > start_date) ENABLE NOVALIDATE"
+IMP-00003: ORACLE error 2264 encountered
+ORA-02264: name already used by an existing constraint
+. . importing table                    "LOCATIONS"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1000
+Column 2 1297 Via Cola di Rie
+Column 3 00989
+Column 4 Roma
+Column 5 
+Column 6 IT
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1100
+Column 2 93091 Calle della Testa
+Column 3 10934
+Column 4 Venice
+Column 5 
+Column 6 IT
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1200
+Column 2 2017 Shinjuku-ku
+Column 3 1689
+Column 4 Tokyo
+Column 5 Tokyo Prefecture
+Column 6 JP
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1300
+Column 2 9450 Kamiya-cho
+Column 3 6823
+Column 4 Hiroshima
+Column 5 
+Column 6 JP
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1400
+Column 2 2014 Jabberwocky Rd
+Column 3 26192
+Column 4 Southlake
+Column 5 Texas
+Column 6 US
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1500
+Column 2 2011 Interiors Blvd
+Column 3 99236
+Column 4 South San Francisco
+Column 5 California
+Column 6 US
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1600
+Column 2 2007 Zagora St
+Column 3 50090
+Column 4 South Brunswick
+Column 5 New Jersey
+Column 6 US
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1700
+Column 2 2004 Charade Rd
+Column 3 98199
+Column 4 Seattle
+Column 5 Washington
+Column 6 US
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1800
+Column 2 147 Spadina Ave
+Column 3 M5V 2L7
+Column 4 Toronto
+Column 5 Ontario
+Column 6 CA
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 1900
+Column 2 6092 Boxwood St
+Column 3 YSW 9T2
+Column 4 Whitehorse
+Column 5 Yukon
+Column 6 CA
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2000
+Column 2 40-5-12 Laogianggen
+Column 3 190518
+Column 4 Beijing
+Column 5 
+Column 6 CN
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2100
+Column 2 1298 Vileparle (E)
+Column 3 490231
+Column 4 Bombay
+Column 5 Maharashtra
+Column 6 IN
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2200
+Column 2 12-98 Victoria Street
+Column 3 2901
+Column 4 Sydney
+Column 5 New South Wales
+Column 6 AU
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2300
+Column 2 198 Clementi North
+Column 3 540198
+Column 4 Singapore
+Column 5 
+Column 6 SG
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2400
+Column 2 8204 Arthur St
+Column 3 
+Column 4 London
+Column 5 
+Column 6 UK
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2500
+Column 2 Magdalen Centre, The Oxford Science Park
+Column 3 OX9 9ZB
+Column 4 Oxford
+Column 5 Oxford
+Column 6 UK
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2600
+Column 2 9702 Chester Road
+Column 3 09629850293
+Column 4 Stretford
+Column 5 Manchester
+Column 6 UK
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2700
+Column 2 Schwanthalerstr. 7031
+Column 3 80925
+Column 4 Munich
+Column 5 Bavaria
+Column 6 DE
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2800
+Column 2 Rua Frei Caneca 1360 
+Column 3 01307-002
+Column 4 Sao Paulo
+Column 5 Sao Paulo
+Column 6 BR
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 2900
+Column 2 20 Rue des Corps-Saints
+Column 3 1730
+Column 4 Geneva
+Column 5 Geneve
+Column 6 CH
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 3000
+Column 2 Murtenstrasse 921
+Column 3 3095
+Column 4 Bern
+Column 5 BE
+Column 6 CH
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 3100
+Column 2 Pieter Breughelstraat 837
+Column 3 3029SK
+Column 4 Utrecht
+Column 5 Utrecht
+Column 6 NL
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.LOC_ID_PK) violated
+Column 1 3200
+Column 2 Mariano Escobedo 9991
+Column 3 11932
+Column 4 Mexico City
+Column 5 Distrito Federal,
+Column 6 MX          0 rows imported
+. . importing table                      "REGIONS"
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.REG_ID_PK) violated
+Column 1 1
+Column 2 Europe
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.REG_ID_PK) violated
+Column 1 2
+Column 2 Americas
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.REG_ID_PK) violated
+Column 1 3
+Column 2 Asia
+IMP-00019: row rejected due to ORACLE error 1
+IMP-00003: ORACLE error 1 encountered
+ORA-00001: unique constraint (HR.REG_ID_PK) violated
+Column 1 4
+Column 2 Middle East and Africa          0 rows imported
+About to enable constraints...
+Import terminated successfully with warnings.

@@ -1,0 +1,5 @@
+owner=hr
+file=dump.dmp
+log=logger.log
+userid=system/root
+statistics=none
